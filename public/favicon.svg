@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with rounded corners -->
+  <rect width="32" height="32" rx="8" fill="url(#gradient)" />
+  
+  <!-- Simplified K monogram for small sizes -->
+  <path d="M9 7H12V15L18 9H22L16 15L22 25H18L14 19L12 21V25H9V7Z" fill="white" stroke="none" stroke-width="0"/>
+  
+  <!-- Small accent dot -->
+  <circle cx="24" cy="9" r="1.5" fill="#FCD34D" />
+  
+  <!-- Inner shadow for depth -->
+  <rect width="32" height="32" rx="8" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F97316"/>
+      <stop offset="50%" style="stop-color:#EA580C"/>
+      <stop offset="100%" style="stop-color:#DC2626"/>
+    </linearGradient>
+  </defs>
+</svg>

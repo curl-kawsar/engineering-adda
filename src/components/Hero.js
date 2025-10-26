@@ -195,7 +195,7 @@ const HeroContent = () => (
             Software Engineer
           </h2>
           <p className="mt-6 text-lg text-gray-300 max-w-xl">
-            Passionate software engineer with <span className="font-semibold text-orange-500">1 year of experience</span> building 
+            Passionate software engineer with <span className="font-semibold text-orange-500">3 year of experience</span> building 
             modern web applications. <span className="font-semibold text-orange-500">7-time hackathon winner and finalist</span> with 
             a proven track record of innovative solutions.
           </p>

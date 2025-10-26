@@ -3,7 +3,7 @@ import React from "react";
 const coderData = {
   name: "Md. Kawsar Ahmed",
   role: "Software Engineer",
-  seniority: "1 Year",
+  seniority: "3 Year",
   location: "Bangladesh",
   skills: [
     "React", 

@@ -1,0 +1,28 @@
+# Robots.txt for Md. Kawsar Ahmed - Software Engineer Portfolio
+# https://kawsarahmed.dev
+
+User-agent: *
+Allow: /
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# Block specific paths if needed (currently allowing all)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://kawsarahmed.dev/sitemap.xml
+
+# Host preference
+Host: https://kawsarahmed.dev

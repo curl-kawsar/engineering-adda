@@ -1,0 +1,49 @@
+{
+  "name": "Md. Kawsar Ahmed - Software Engineer Portfolio",
+  "short_name": "Kawsar Ahmed",
+  "description": "Portfolio of Md. Kawsar Ahmed, a passionate Software Engineer with 1 year of experience and 7-time hackathon winner.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#f97316",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "professional", "technology"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Kawsar Ahmed Portfolio - Desktop View"
+    },
+    {
+      "src": "/screenshot-narrow.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Kawsar Ahmed Portfolio - Mobile View"
+    }
+  ]
+}
