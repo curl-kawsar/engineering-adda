@@ -106,10 +106,10 @@ const HeaderSection = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   
   return (
-    <header className="relative z-20">
+    <header className="sticky top-0 z-50 bg-black/80 backdrop-blur-xl border-b border-gray-800/50 shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          <div className="flex-shrink-0 flex items-center gap-3 group cursor-pointer">
+          <div className="flex-shrink-0 flex items-center gap-3 group cursor-pointer sticky">
             {/* Custom Logo Icon */}
             <div className="relative">
               <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-red-500 rounded-lg shadow-lg group-hover:shadow-orange-500/25 transition-all duration-300 flex items-center justify-center group-hover:scale-110">

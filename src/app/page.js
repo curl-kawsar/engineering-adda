@@ -9,6 +9,7 @@ import Projects from "@/components/Projects";
 import Workflow from "@/components/Workflow";
 import Footer from "@/components/Footer";
 import Sidebar from "@/components/Sidebar";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const MenuIcon = () => (
   <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -71,6 +72,9 @@ export default function Home() {
         </main>
         
       </div>
+      
+      {/* Scroll to Top Button */}
+      <ScrollToTop />
     </div>
   );
 }
