@@ -189,7 +189,7 @@ const HeroContent = () => (
           </span>
           <h1 className="mt-6 text-4xl sm:text-5xl lg:text-7xl font-display font-black tracking-tight text-white leading-tight">
             Hi, I&apos;m{" "}
-            <span className="text-gradient text-glow">Md. Kawsar Ahmed</span>
+            <span className="text-gradient text-glow">Hasibul Hossain</span>
           </h1>
           <h2 className="mt-4 text-2xl sm:text-3xl font-heading font-bold text-gray-300">
             Software Engineer
