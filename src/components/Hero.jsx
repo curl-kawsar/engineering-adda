@@ -189,14 +189,14 @@ const HeroContent = () => (
           </span>
           <h1 className="mt-6 text-4xl sm:text-5xl lg:text-7xl font-display font-black tracking-tight text-white leading-tight">
             Hi, I&apos;m{" "}
-            <span className="text-gradient text-glow">Hasibul Hossain</span>
+            <span className="text-gradient text-glow">Md. Kawsar Ahmed</span>
           </h1>
           <h2 className="mt-4 text-2xl sm:text-3xl font-heading font-bold text-gray-300">
             Software Engineer
           </h2>
           <p className="mt-6 text-lg text-gray-300 max-w-xl">
-            Passionate software engineer with <span className="font-semibold text-orange-500">3 year of experience</span> building 
-            modern web applications. <span className="font-semibold text-orange-500">7-time hackathon winner and finalist</span> with 
+            Passionate software engineer with <span className="font-semibold text-orange-500">2 year of experience</span> building 
+            modern web applications. <span className="font-semibold text-orange-500">9-time hackathon winner and finalist</span> with 
             a proven track record of innovative solutions.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center lg:items-start lg:justify-start justify-center gap-4">
